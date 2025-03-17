@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/matts/OneDrive/College/CSCD_439_Game_Develoment_1/TextBookFiles/Hour_10_Files/Hour
+    10 Files/Completed Projects/Chaos Ball/Assets/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
